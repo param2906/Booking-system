@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name": "room1",
+    "status": "available",
+    "tags":["projecter","sound"],
+    "seats": 100,
+    "bookslots":{}
+  },
+  {
+    "id":2,
+    "name": "room2",
+    "status": "not available",
+    "tags":["projecter","sound"],
+    "seats": 10,
+    "bookslots":{}
+  },
+  {
+    "id":3,
+    "name": "room2",
+    "status": "not available",
+    "tags":["projecter","sound"],
+    "seats": 1000,
+    "bookslots":{}
+  }
+]
